@@ -1,0 +1,37 @@
+body {
+}
+
+.jumbotron {
+	height: 60vh;
+	background-image: url("img/header-bg.jpg");
+	background-size: cover;
+	color: #fff;
+    margin-bottom:0;
+}
+.jumbotron h1 {
+	text-transform: uppercase;
+}
+.pricing-table {
+	background: #F6F6F6;
+}
+.pricing-table li {
+	list-style: none;
+	padding: 10px 0;
+}
+.pricing-table li i {
+	margin-right: 20px;
+}
+.navbar .nav-link {
+    color: #ffffff !important;
+}
+.navbar,
+.download-app,
+.card-header,
+.btn-primary,
+footer {
+	background-color: #7782FE;
+}
+
+button {
+	border-radius: 20px !important;
+}
